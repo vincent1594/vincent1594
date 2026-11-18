@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Vincent — an electrical engineer turned software developer.
 
-<!--
-**vincent1594/vincent1594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Background in Electrical Engineering, now pursuing a master's in Computer Science.
 
-Here are some ideas to get you started:
+⚡ Experience across power systems and tech: distribution grid simulation,
+motherboard hardware design, and SCADA configuration for power grids.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently building a **campus distribution digital twin**.
+
+I'm currently focusing on:
+
+- Power flow analysis & grid simulation
+- Distribution network digital twins
+- Renewable energy integration
+
+**Skills**
+
+- **Languages:** Python
+- **Power Systems:** pandapower · PSS/E · GridLAB-D · ETAP
+- **Tools:** Git · AutoCAD
